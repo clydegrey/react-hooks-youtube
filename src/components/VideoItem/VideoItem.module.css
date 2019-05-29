@@ -1,0 +1,13 @@
+.video_item {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.video_item img {
+  width: 180px;
+}
+
+.weird {
+  background: red;
+}
